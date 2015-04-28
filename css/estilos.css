@@ -1,0 +1,13 @@
+body 
+{
+	margin: 0 auto;
+	max-width: 1024px;
+
+}
+
+header
+{
+	background: blue;
+	color: white;
+	text-align: center;
+}
